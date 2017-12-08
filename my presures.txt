@@ -6,3 +6,4 @@ add someting
 add commit one
 add commit two
 add commit three
+branch feature1 add commit 1
