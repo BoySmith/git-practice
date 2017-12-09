@@ -1,0 +1,2 @@
+rebase commit HEAD^^
+haha
