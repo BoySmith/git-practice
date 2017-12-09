@@ -1,2 +1,4 @@
-rebase commit HEAD^^
+the first commit
 haha
+
+the seconed commit
