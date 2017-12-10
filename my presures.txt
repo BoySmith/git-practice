@@ -13,3 +13,4 @@ test commit 1
 test commit --amend
 
 add someting to test stash
+another author,to test stash
