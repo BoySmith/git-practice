@@ -11,3 +11,5 @@ branch feature1 add commit 1
 test commit 1
 
 test commit --amend
+
+add someting to test stash
